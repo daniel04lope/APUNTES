@@ -20,8 +20,93 @@
               "icon": "lucide-file",
               "title": "Prueba de"
             }
+          },
+          {
+            "id": "4e2c86a13838792e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bastionado de redes/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "cde9f1d8f5f41efe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking etico/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "caf7edc352c73fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking etico/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "8bab3c337e8c858d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Incidentes de ciberseguridad/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "163439bf0ed44d4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Normativa en ciberseguridad/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "490b3e506f7c06ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Puesta en producion segura/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -94,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisis forense/Prueba de.md",
+                "file": "Puesta en producion segura/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prueba de"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisis forense/Prueba de.md",
+                "file": "Puesta en producion segura/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prueba de"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -142,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisis forense/Prueba de.md",
+                "file": "Puesta en producion segura/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prueba de"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -171,11 +256,17 @@
   },
   "active": "c915db639652f7e3",
   "lastOpenFiles": [
+    "Normativa en ciberseguridad/Untitled.md",
+    "Puesta en producion segura/Untitled.md",
+    "Incidentes de ciberseguridad/Untitled.md",
+    "Hacking etico/Untitled 1.md",
+    "Hacking etico/Untitled.md",
+    "Bastionado de redes/Untitled.md",
+    "Analisis forense/Prueba de.md",
     "Puesta en producion segura",
     "Normativa en ciberseguridad",
     "Incidentes de ciberseguridad",
     "Welcome.md",
-    "Analisis forense/Prueba de.md",
     "Analisis forense",
     "Hacking etico",
     "Bastionado de redes"
