@@ -1,5 +1,4 @@
 
-
   ![[Pasted image 20251008201325.png]]
 
 Principios básicos de ciberseguridad
@@ -60,3 +59,37 @@ Piensa en una amenaza y un método de prevención:
 **Vulnerabilidad**: Debilidad o fallo en un sistema de información que pone en riesgo la seguridad de la información
 
 **Amenaza**: Accion que aprovecha una vulnerabilidad para atentar contra la seguridad de un sistema de información 
+
+**Ejemplos**:
+**Vulnerabilidad:** Software no actualizado, Gente no formada
+
+##### PROBABILIAD X IMPACTO = RIESGO
+
+							**¿Que es el riesgo?**
+
+El riesgo es la probabilidad de que una amenaza se materialice por el impacto que provocaría la explotacion de una vulnerabilidad
+
+se debe de :
+
+- Identificar
+- Analizar
+- Evaluar
+- Tratarse
+
+							**Analisis de riesgos**
+
+![[Pasted image 20251008203505.png]]
+
+**¿Que medidas se toman?**
+
+- Controles preventivos: Eliminan o reducen la posibilidad de que la amenaza se materialice
+- Controles de detección: Permiten detectar un suceso no deseado
+- Medidas de reacción y recuperación: reducen el impacto en caso de materializarse 
+
+en función de la relevancia de los riesgos podremos:
+
+- Evitar el riesgo eliminando su causa
+- adoptar medidas que mitiguen el impacto 
+- compartir o transferir el riesgo con terceros
+
+![[Pasted image 20251008203957.png]]
