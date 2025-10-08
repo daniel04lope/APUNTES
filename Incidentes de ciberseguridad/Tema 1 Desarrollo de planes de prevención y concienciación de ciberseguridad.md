@@ -55,3 +55,8 @@ Piensa en una amenaza y un método de prevención:
 - CCN-CERT
 - ENISA
 - INCIBE
+
+				**¿Qué es vulnerabilidad o que es amenaza?**
+**Vulnerabilidad**: Debilidad o fallo en un sistema de información que pone en riesgo la seguridad de la información
+
+**Amenaza**: Accion que aprovecha una vulnerabilidad para atentar contra la seguridad de un sistema de información 
