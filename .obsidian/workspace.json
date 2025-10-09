@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "76c7a6a3bcb32548",
+        "id": "05b6ac330106821b",
         "type": "tabs",
         "children": [
           {
-            "id": "490b3e506f7c06ae",
+            "id": "0f81ac171317c915",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Incidentes de ciberseguridad/Tema 1 Desarrollo de planes de prevención y concienciación de ciberseguridad.md",
+                "file": "Bastionado de redes/Tema 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema 1 Desarrollo de planes de prevención y concienciación de ciberseguridad"
+              "title": "Tema 1"
             }
           }
         ]
@@ -169,19 +169,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "490b3e506f7c06ae",
+  "active": "0f81ac171317c915",
   "lastOpenFiles": [
+    "Bastionado de redes/Repaso.md",
+    "Bastionado de redes/Tema 1.md",
+    "Pasted image 20251009163754.png",
+    "Untitled.canvas",
+    "2025-10-09.md",
+    "Pasted image 20251009162712.png",
+    "Pasted image 20251009162326.png",
+    "Pasted image 20251009161946.png",
+    "Incidentes de ciberseguridad/Tema 1 Desarrollo de planes de prevención y concienciación de ciberseguridad.md",
+    "Pasted image 20251008201235.png",
+    "Pasted image 20251008201230.png",
     "Pasted image 20251008203957.png",
     "Pasted image 20251008203505.png",
     "Pasted image 20251008201325.png",
-    "Pasted image 20251008201235.png",
-    "Pasted image 20251008201230.png",
     "Puesta en producion segura/Untitled.md",
     "Normativa en ciberseguridad/Untitled.md",
-    "Incidentes de ciberseguridad/Tema 1 Desarrollo de planes de prevención y concienciación de ciberseguridad.md",
     "Hacking etico/Untitled 1.md",
     "Hacking etico/Untitled.md",
-    "Bastionado de redes/Untitled.md",
     "Analisis forense/Prueba de.md",
     "Puesta en producion segura",
     "Normativa en ciberseguridad",
