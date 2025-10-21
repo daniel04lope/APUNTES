@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bastionado de redes/Tema 1.md",
+                "file": "Bastionado de redes/Repaso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tema 1"
+              "title": "Repaso"
+            }
+          },
+          {
+            "id": "8afe58f37e1379ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analisis forense/Forense en windows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forense en windows"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,17 +184,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "0f81ac171317c915",
+  "active": "8afe58f37e1379ce",
   "lastOpenFiles": [
+    "TIPOS DE MALWARE.md",
     "Bastionado de redes/Repaso.md",
     "Bastionado de redes/Tema 1.md",
+    "Incidentes de ciberseguridad/Tema 1 Desarrollo de planes de prevención y concienciación de ciberseguridad.md",
     "Pasted image 20251009163754.png",
     "Untitled.canvas",
     "2025-10-09.md",
     "Pasted image 20251009162712.png",
     "Pasted image 20251009162326.png",
     "Pasted image 20251009161946.png",
-    "Incidentes de ciberseguridad/Tema 1 Desarrollo de planes de prevención y concienciación de ciberseguridad.md",
     "Pasted image 20251008201235.png",
     "Pasted image 20251008201230.png",
     "Pasted image 20251008203957.png",
@@ -189,7 +205,7 @@
     "Normativa en ciberseguridad/Untitled.md",
     "Hacking etico/Untitled 1.md",
     "Hacking etico/Untitled.md",
-    "Analisis forense/Prueba de.md",
+    "Analisis forense/Forense en windows.md",
     "Puesta en producion segura",
     "Normativa en ciberseguridad",
     "Incidentes de ciberseguridad",
